@@ -1,4 +1,4 @@
-[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1280208/cover-Refresh-DateTimeManipulation-Luke_Newsletter-760e8d9895e845e072e65b1a7cc25c50-30a74a7fe8cf4dcacf626b2fe0461731.png)]
+![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1280208/cover-Refresh-DateTimeManipulation-Luke_Newsletter-760e8d9895e845e072e65b1a7cc25c50-30a74a7fe8cf4dcacf626b2fe0461731.png)
 <h1 align="center">Hi 👋, I'm Ubong Joseph</h1>
 <h3 align="center">A passionate about software development</h3>
 <img aliign="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="software development" width="400">
