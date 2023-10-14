@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Kalloview](https://github.com/KalloView)
 
 - 📝 I regularly write articles on [https://medium.com/@incoknito](https://medium.com/@incoknito)
 
