@@ -3,11 +3,11 @@
 <h3 align="center">A passionate about software development</h3>
 <img aliign="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="software development" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=incoknito&label=Profile%20views&color=0e75b6&style=flat" alt="jkavod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkavod&label=Profile%20views&color=0e75b6&style=flat" alt="jkavod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incoknito" alt="incoknito" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@jkavod_" target="blank"><img src="https://img.shields.io/twitter/follow/@jkavod?logo=twitter&style=for-the-badge" alt="@jkavod" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jkavod_" target="blank"><img src="https://img.shields.io/twitter/follow/@jkavod?logo=twitter&style=for-the-badge" alt="jkavod" /></a> </p>
 
 - 🔭 I’m currently working on [Gata Protocol](https://github.com/GataProtocol)
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/@jkavod_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jkavod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jkavod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkavod" height="30" width="40" /></a>
-<a href="https://medium.com/@jkavod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@incoknito" height="30" width="40" /></a>
+<a href="https://medium.com/@jkavod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jkavod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
