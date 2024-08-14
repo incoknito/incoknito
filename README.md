@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 
-- 📝 I regularly write articles on [https://medium.com/@jkavod](https://medium.com/@iamkavod_)
+- 📝 I regularly write articles on [https://medium.com/@iamkavod_](https://medium.com/@iamkavod_)
 
 - 💬 Ask me about **React, Solidity, Rust**
 
